@@ -1,6 +1,5 @@
-!SLIDE 
+!SLIDE bullets
 # Why Git is better for peer code review
-## Kevin Sawicki
-## GitHub
-## JAXconf 2011
 
+* JAX
+* June 22nd, 2011
