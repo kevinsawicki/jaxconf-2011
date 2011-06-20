@@ -1,4 +1,5 @@
 !SLIDE bullets
+
 # Why Git is better for peer code review
 
 * JAX

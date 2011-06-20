@@ -19,12 +19,14 @@
 !SLIDE center
 ![](images/graph-5y-events.png)
 
-!SLIDE
+!SLIDE bullets
+
 # History 
-## is important
-## sends a message
-## is multi-faceted
-## affects our actions
+
+* is important
+* sends a message
+* is multi-faceted
+* affects our actions
 
 !SLIDE center
 ![stock trader monitors](images/stock-trader.jpg)

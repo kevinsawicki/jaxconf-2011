@@ -6,6 +6,14 @@
 * Gerrit
 * Hudson
 
+!SLIDE bullets
+
+# Goals
+
+* Take contributions as commits
+* Build all contributions
+* Review all changes
+
 !SLIDE bullets 
 
 # Developer 1
@@ -18,7 +26,7 @@
 
 # Hudson
 
-* Builds commits
+* Builds commit
 * Votes based on outcome
 
 !SLIDE bullets
@@ -33,7 +41,7 @@
 
 # Hudson
 
-* Builds commits
+* Builds commit
 * Votes based on outcome
 
 !SLIDE bullets
