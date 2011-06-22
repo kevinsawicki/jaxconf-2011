@@ -1,7 +1,9 @@
-!SLIDE
-# Git
-## Commits are modular
-## Commits are maleable
+!SLIDE bullets
+# Git Commits
+
+* Modular
+* Malleable
+* Connected
 
 !SLIDE center
 
@@ -20,17 +22,7 @@
 ![](images/fix-rebase.png)
 
 !SLIDE bullets
-# Git
-
-* Locally the way **you** want
-* Remotely the way your **team** wants it
-
-!SLIDE center
-
-![](images/launch-keys.jpg)
-
-!SLIDE bullets
-# Git commits
+# Git Commits
 
 * Author **and** committer
-* Message conventions for other roles
+* Message conventions

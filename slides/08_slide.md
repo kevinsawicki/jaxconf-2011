@@ -1,4 +1,10 @@
 !SLIDE bullets
+# Git
+
+* Locally the way **you** want
+* Remotely the way your **team** wants it
+
+!SLIDE bullets
 
 # Centralized failures
 

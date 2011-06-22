@@ -50,3 +50,7 @@
 
 * Commits patch from Gerrit
 * Review history stored in Git notes
+
+!SLIDE center
+
+![](images/launch-keys.jpg)
